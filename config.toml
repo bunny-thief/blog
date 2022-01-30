@@ -1,0 +1,10 @@
+baseURL = "https://bunny-thief.github.io"
+languageCode = 'en-us'
+theme = "anatole"
+enableEmoji = true
+
+[params]
+title = "Test Blog"
+author = "bunny-thief"
+description = "A test blog"
+
