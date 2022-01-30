@@ -7,4 +7,5 @@ enableEmoji = true
 title = "Test Blog"
 author = "bunny-thief"
 description = "A test blog"
-
+profilePicture = "images/tb_profile_20220128_234817.jpg"
+mainSections = ["blog"]
